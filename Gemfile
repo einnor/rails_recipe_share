@@ -34,7 +34,7 @@ gem 'cocoon', '~> 1.2', '>= 1.2.9'
 # Manage user accounts
 gem 'devise', '~> 4.1', '>= 4.1.1'
 # bundle exec rake doc:rails generates the API under doc/api.
-gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'sdoc', '~> 2.0.4', group: :doc
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
